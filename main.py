@@ -27,7 +27,7 @@ def Fibonacci(n):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
-    for i in range(1,10):
+    for i in range(1, 11):
         print(Fibonacci(i))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
